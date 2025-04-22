@@ -1,0 +1,12 @@
+# Ignore all class files
+*.class
+
+# Ignore the out folder where compiled classes are stored
+/out/
+
+# (Optional) Ignore IDE-specific files (like IntelliJ or Eclipse)
+.idea/
+*.iml
+*.log
+*.tmp
+.DS_Store

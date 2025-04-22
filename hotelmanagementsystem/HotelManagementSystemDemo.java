@@ -5,12 +5,9 @@ import java.time.LocalDate;
 import hotelmanagementsystem.payment.CashPayment;
 import hotelmanagementsystem.payment.Payment;
 
-public class HotelManagementSystemDeom {
-    public static void main(String[] args) {
-        run(args);  // Delegate to your run method
-    }
+public class HotelManagementSystemDemo {
     
-    public static void run(String []args){
+    public static void main(String []args){
         HotelManagementSystem hotelManagementSystem = HotelManagementSystem.getInstance();
 
         // Create guest
